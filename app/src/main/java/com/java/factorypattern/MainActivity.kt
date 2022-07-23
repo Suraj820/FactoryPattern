@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val breadFactory = BreadFactory()
         val bread = breadFactory.getBread("BAG")
-        Log.e("Suraj==>>", "Your Bread:  ${bread?.name()}")
+        Log.e("Suraj==>>", "Your Bread: ${bread?.name()}")
     }
 }
