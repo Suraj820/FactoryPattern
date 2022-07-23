@@ -18,6 +18,6 @@ and implemented by child classes, or implemented in a base class and optionally 
 derived classes rather than by calling a constructor.</br>
 
 See your LogCat for  output</br>
-checkout other branches to more about factory Pattern.</br>
+Checkout other branches to know more about factory Pattern.</br>
 
 
